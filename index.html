@@ -319,16 +319,19 @@
       <form class="contact-form" action="https://formspree.io/f/mykbqajk" method="POST">
         <div class="form-group">
           <label for="name">Name</label>
-          <input type="text" id="name" placeholder="---" />
+          <input type="text" id="name" name="name" placeholder="---" required />
         </div>
+
         <div class="form-group">
           <label for="email">E-Mail</label>
-          <input type="email" id="email" placeholder="---" />
+          <input type="email" id="email" name="email" placeholder="---" required />
         </div>
+
         <div class="form-group">
           <label for="thema">Worum geht's?</label>
-          <textarea id="thema" placeholder="Frage, Gedanke oder einfach Hallo…"></textarea>
+          <textarea id="thema" name="message" placeholder="Frage, Gedanke oder einfach Hallo…" required></textarea>
         </div>
+
         <button type="submit" class="btn btn-primary contact-submit">
           Nachricht senden →
         </button>
