@@ -701,7 +701,7 @@ footer {
 @media (max-width: 900px) {
   .hero-sub { white-space: normal; }
   #hero { grid-template-columns: 1fr; }
-  .photo-placeholder { aspect-ratio: 4/3; order: -1; border-radius: var(--radius); border-bottom: 1px solid rgba(255,255,255,.12); }
+  .photo-placeholder { aspect-ratio: 3/4; order: -1; border-radius: var(--radius); border-bottom: 1px solid rgba(255,255,255,.12); }
   .services-grid { grid-template-columns: 1fr 1fr; }
   .steps { grid-template-columns: 1fr 1fr; }
   .audience-layout { grid-template-columns: 1fr; }
