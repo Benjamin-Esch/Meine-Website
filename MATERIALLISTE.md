@@ -12,10 +12,12 @@ alle Punkte unter A erledigt sind.**
 ## A. Pflicht für das Impressum (§ 5 DDG, § 18 Abs. 2 MStV)
 
 1. **Ladungsfähige Anschrift**: Straße, Hausnummer, PLZ, Ort. Ein Postfach reicht nicht.
-   Wenn du deine Privatadresse nicht veröffentlichen willst, geht auch eine
-   Geschäftsadresse oder ein Impressums-/Geschäftsadressen-Service, an dem du tatsächlich
-   Post empfangen kannst.
-2. **Zweiter schneller Kontaktweg** neben der E-Mail. Üblich ist eine Telefonnummer.
+   In deinem Lebenslauf steht eine Adresse. Ich habe sie **bewusst nicht** übernommen, weil
+   sie damit öffentlich wird. Bitte bestätige ausdrücklich, welche Adresse ins Impressum
+   soll: die aus dem Lebenslauf, eine Geschäftsadresse oder ein Impressums-Service, an dem du
+   tatsächlich Post empfangen kannst.
+2. **Zweiter schneller Kontaktweg** neben der E-Mail. Üblich ist eine Telefonnummer. Auch
+   hier: Bitte bestätige, ob die Nummer aus dem Lebenslauf öffentlich im Impressum stehen soll.
 3. **Umsatzsteuer-Identifikationsnummer**, falls du eine hast. Wenn nicht (z. B. als
    Kleinunternehmer ohne USt-IdNr.), streiche ich den Abschnitt.
 4. **Rechtsform von BEE KI-Beratung**: Einzelunternehmen, GbR, UG oder GmbH? Wenn BEE
@@ -30,8 +32,8 @@ alle Punkte unter A erledigt sind.**
 
 ## B. Pflicht für die Datenschutzerklärung
 
-7. **Zuständige Datenschutz-Aufsichtsbehörde**: ergibt sich aus deinem Bundesland (bei
-   Wohnsitz in Baden-Württemberg: LfDI Baden-Württemberg).
+7. **Zuständige Datenschutz-Aufsichtsbehörde**: ergibt sich aus deinem Bundesland. Bei
+   Wohnsitz in Baden-Württemberg ist das der LfDI Baden-Württemberg; kurze Bestätigung reicht.
 8. **Formspree** (Kontaktformular):
    - Bitte im Formspree-Konto den **Auftragsverarbeitungsvertrag (DPA)** abschließen bzw.
      herunterladen.
@@ -58,14 +60,41 @@ alle Punkte unter A erledigt sind.**
 14. **Angaben zu BEE prüfen**: Stimmt die Beschreibung („berät Kleinunternehmen und
     mittelständische Betriebe, baut KI-Lösungen z. B. mit n8n, bietet Schulungen und
     Workshops an“)? Möchtest du ergänzen, ob du BEE allein oder mit Partnern betreibst?
-15. **Über mich**: Stimmen „seit vier Jahren“ und „Partnerunternehmen“ noch? Soll die
-    Recruiter-Ansprache angesichts deiner Firma bleiben? Gern ergänzen: Semester,
-    voraussichtlicher Abschluss, Name des Partnerunternehmens (falls nennbar).
 16. **Standbild zum Reel** (Screenshot oder Titelbild als JPG) plus Titel/Thema des Reels.
     Das Bild wird lokal eingebunden, zeigt also etwas, ohne dass Daten an Instagram gehen.
-17. **Konkrete Belege statt allgemeiner Aussagen** (optional, macht die Texte deutlich
-    stärker): z. B. Follower- oder Aufrufzahlen, zwei, drei getestete Tools mit einem
-    Urteil in einem Satz, ein Praxisbeispiel von BEE (etwa „n8n-Ablauf spart Betrieb X
-    Y Stunden pro Woche“, natürlich nur mit Zustimmung der Kundin/des Kunden).
 18. **E-Mail-Adresse mit eigener Domain** (z. B. `benjamin@bee-beratung.de`), falls
     vorhanden. Wirkt für Unternehmen und Recruiter professioneller als die GMX-Adresse.
+
+## D. Projekte, Belege und Lebenslauf (neu)
+
+19. **Freigabe durch MLP**: Die Seite nennt MLP, das KI-Projekt zur Dokumentenverarbeitung,
+    „bis zu 7.000 Arbeitsstunden pro Jahr“ und die Copilot-Schulungen (30–50 Teilnehmende).
+    Bitte kläre mit MLP, ob du Projekt und Zahlen öffentlich nennen darfst. Interne
+    Kennzahlen unterliegen oft der Verschwiegenheit aus dem Arbeitsvertrag. Falls nicht,
+    formuliere ich den Fall anonym („bei einem Finanzdienstleister“) und ohne Zahl.
+20. **Zahlen richtig wiedergeben**: Auf der Seite steht „bis zu 7.000“, nicht „7.000+“ wie im
+    ChatGPT-Vorschlag. Dein Lebenslauf sagt „bis zu“, und eine Aufrundung wäre irreführend.
+    Bitte sag mir, worauf sich die 7.000 Stunden stützen (Hochrechnung, Messung?), dann kann
+    ich das in einem Halbsatz belegen.
+21. **Projekttexte prüfen**: Die drei Fallbeispiele habe ich aus den Stichpunkten deines
+    Lebenslaufs formuliert. Bitte prüfe besonders:
+    - Fall 1: Stimmt „Dokumente, die vorher von Hand gelesen und erfasst wurden“?
+    - Fall 2: Stimmen die Schritte Themenidee → Text → Bild & Video → Veröffentlichen?
+      Für welches Unternehmen war das, und darf es genannt werden?
+    - Fall 3: Für wen waren die Websites (Links?), und wofür wurden die 3D-Modelle genutzt?
+22. **Echte Screenshots deiner eigenen Arbeit**: z. B. dein n8n-Social-Media-Workflow und
+    Screenshots der Websites. Bei Kundenprojekten brauche ich die Zustimmung der Kunden.
+    Bis dahin zeigen selbst gezeichnete, vereinfachte Ablaufdiagramme die Projekte.
+23. **Zum n8n-Beispielbild**: Das Bild (AI Agent → Is manager? → Slack) sieht aus wie die
+    Beispielgrafik von der n8n-Website. Die habe ich **nicht** eingebaut: Sie wäre
+    urheberrechtlich nicht deine, und unter „Was ich gebaut habe“ würde sie eine fremde
+    Arbeit als deine erscheinen lassen. Wenn du einen solchen Onboarding-Agenten selbst
+    gebaut hast, schick mir einen Screenshot deines eigenen Workflows, dann wird das ein
+    viertes Fallbeispiel.
+24. **Lebenslauf-PDF**: Der Link „Vollständigen Lebenslauf ansehen“ ist vorbereitet, aber
+    noch nicht aktiv, weil das PDF Adresse und Handynummer enthält und damit für alle
+    abrufbar wäre. Schick mir entweder eine Version zur Veröffentlichung (z. B. ohne Adresse
+    und Telefonnummer) oder bestätige, dass die jetzige Version online gehen soll.
+25. **Angebote von BEE bestätigen**: Workshop, KI-Potenzialanalyse, Automatisierung,
+    Individuelle KI-Lösungen. Stimmen Namen und Zuschnitt? Anfragen landen derzeit im
+    Kontaktformular dieser Seite; sollen sie lieber direkt zu BEE gehen?

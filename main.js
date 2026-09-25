@@ -22,3 +22,17 @@
     document.body.appendChild(script);
   });
 })();
+
+// Angebots-Links („Workshop anfragen →“) füllen das Kontaktformular vor.
+(function () {
+  var field = document.getElementById('nachricht');
+  if (!field) return;
+
+  document.querySelectorAll('[data-anliegen]').forEach(function (link) {
+    link.addEventListener('click', function () {
+      if (field.value.trim() === '' || field.value.indexOf('Anfrage: ') === 0) {
+        field.value = 'Anfrage: ' + link.getAttribute('data-anliegen') + '\n\n';
+      }
+    });
+  });
+})();
