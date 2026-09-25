@@ -418,9 +418,9 @@ figure { margin: 0; }
 /* ── Inhalte ─────────────────────────────────────────────── */
 .inhalte-grid {
   display: grid;
-  grid-template-columns: 340px minmax(0, 1fr);
+  grid-template-columns: 300px minmax(0, 1fr);
   gap: 96px;
-  align-items: start;
+  align-items: center;
 }
 
 .reel {
@@ -538,6 +538,12 @@ figure { margin: 0; }
   align-items: end;
 }
 .about-text { padding-right: var(--gutter); }
+.about-hey {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 12px;
+}
 .about-photo img {
   width: 100%;
   aspect-ratio: 4 / 3;
@@ -555,10 +561,10 @@ figure { margin: 0; }
   max-width: 860px;
   margin-bottom: 48px;
 }
-.timeline::before {
+.timeline li:not(:last-child)::after {
   content: '';
   position: absolute;
-  left: 150px; top: 8px; bottom: 8px;
+  left: 150px; top: 12px; bottom: -12px;
   width: 2px;
   background: var(--clr-ink);
 }
@@ -736,7 +742,7 @@ textarea { resize: vertical; min-height: 110px; }
   .case--small .case-text { margin-top: 12px; }
 
   .weg { margin-top: 80px; }
-  .timeline::before { left: 5px; }
+  .timeline li:not(:last-child)::after { left: 5px; }
   .timeline li { grid-template-columns: 1fr; padding-left: 32px; }
   .timeline li::before { left: 0; }
 
