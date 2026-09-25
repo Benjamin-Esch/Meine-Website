@@ -59,4 +59,13 @@ alle Punkte unter A erledigt sind.**
     mittelständische Betriebe, baut KI-Lösungen z. B. mit n8n, bietet Schulungen und
     Workshops an“)? Möchtest du ergänzen, ob du BEE allein oder mit Partnern betreibst?
 15. **Über mich**: Stimmen „seit vier Jahren“ und „Partnerunternehmen“ noch? Soll die
-    Recruiter-Ansprache angesichts deiner Firma bleiben?
+    Recruiter-Ansprache angesichts deiner Firma bleiben? Gern ergänzen: Semester,
+    voraussichtlicher Abschluss, Name des Partnerunternehmens (falls nennbar).
+16. **Standbild zum Reel** (Screenshot oder Titelbild als JPG) plus Titel/Thema des Reels.
+    Das Bild wird lokal eingebunden, zeigt also etwas, ohne dass Daten an Instagram gehen.
+17. **Konkrete Belege statt allgemeiner Aussagen** (optional, macht die Texte deutlich
+    stärker): z. B. Follower- oder Aufrufzahlen, zwei, drei getestete Tools mit einem
+    Urteil in einem Satz, ein Praxisbeispiel von BEE (etwa „n8n-Ablauf spart Betrieb X
+    Y Stunden pro Woche“, natürlich nur mit Zustimmung der Kundin/des Kunden).
+18. **E-Mail-Adresse mit eigener Domain** (z. B. `benjamin@bee-beratung.de`), falls
+    vorhanden. Wirkt für Unternehmen und Recruiter professioneller als die GMX-Adresse.
