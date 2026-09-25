@@ -9,20 +9,8 @@ Diese Datei wird beim Veröffentlichen über GitHub Pages **nicht** mit hochgela
 
 > Die Rechtstexte sind ein sorgfältiger Entwurf, aber keine Rechtsberatung.
 
-## Wichtig vor dem Livegang: Anschrift
-
-Du schreibst, als Privatperson müsstest du keine Adresse angeben. Das stimmt nur für rein
-private Seiten. Diese Seite nennt deine Firma, dein Social-Media-Angebot und dient der
-beruflichen Selbstdarstellung; das wird in der Regel als geschäftsmäßig gewertet
-(§ 5 DDG). Zusätzlich verlangt § 18 Abs. 2 MStV für redaktionelle Inhalte Name **und
-Anschrift** der verantwortlichen Person, und die Datenschutzerklärung braucht die
-Kontaktdaten des Verantwortlichen. Ohne ladungsfähige Anschrift ist die Seite also
-abmahnfähig. Ein kurzer Test ist deine Entscheidung, aber die Anschrift sollte zeitnah folgen.
-
 ## Offen
 
-1. **Anschrift** für Impressum und Datenschutzerklärung (in Klärung). Vorgesehen ist sie als
-   Anschrift der BEE KI-Beratung; ich trage sie erst ein, wenn du grünes Licht gibst.
 2. **Telefonnummer** (kommt später). Bis dahin steht als zweiter Kontaktweg das
    Kontaktformular im Impressum.
 3. **Umsatzsteuer-ID** (kommt später). Der Abschnitt ist bis dahin entfernt, weil er nur
