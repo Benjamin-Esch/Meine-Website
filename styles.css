@@ -469,12 +469,20 @@ figure { margin: 0; }
 .bee {
   background: var(--clr-ink);
   color: var(--clr-on-ink);
-  padding: 90px 0 130px;
+  padding: 110px 0 120px;
   overflow: hidden;
+}
+.bee-grid {
+  display: grid;
+  grid-template-columns: auto minmax(0, 480px);
+  gap: 64px;
+  align-items: end;
+  /* rechte Textkante bündig mit dem Container der übrigen Abschnitte */
+  padding-right: max(var(--gutter), calc((100vw - 1200px) / 2 + var(--gutter)));
 }
 .bee-mark {
   font-family: var(--font-display);
-  font-size: 62vw;
+  font-size: 46vw;
   font-weight: 800;
   font-stretch: 75%;
   line-height: .74;
@@ -487,18 +495,13 @@ figure { margin: 0; }
   background-clip: text;
   -webkit-text-fill-color: transparent;
   color: var(--clr-on-ink);
-  margin-bottom: 64px;
 }
-.bee-grid { max-width: 1200px; }
-.bee-grid > * { margin-left: 30%; }
 .bee-headline {
-  font-size: clamp(2.6rem, 5.6vw, 5.4rem);
-  max-width: 16ch;
-  margin-bottom: 36px;
+  font-size: clamp(2.2rem, 4vw, 3.6rem);
+  margin-bottom: 24px;
 }
-.bee-text { max-width: 560px; }
 .bee .body-text { color: var(--clr-on-ink-muted); }
-.bee-link { margin-top: 32px; }
+.bee-link { margin-top: 28px; }
 
 /* ── Über mich ───────────────────────────────────────────── */
 .about-grid {
@@ -721,9 +724,8 @@ textarea { resize: vertical; min-height: 110px; }
   .inhalte-text { padding-top: 0; }
 
   .bee { padding: 64px 0 90px; }
-  .bee-mark { font-size: 76vw; margin: 0 0 48px var(--gutter); }
-  .bee-grid > * { margin-left: 0; }
-  .bee-grid { gap: 28px; }
+  .bee-grid { grid-template-columns: 1fr; gap: 40px; padding: 0 var(--gutter); }
+  .bee-mark { font-size: 76vw; margin: 0; }
 
   .about-photo { width: 88%; }
   .about-text { padding: 0 var(--gutter); }
